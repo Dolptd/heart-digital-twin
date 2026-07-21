@@ -45,11 +45,17 @@ It is recommended to use the same Unity Editor version to avoid compatibility is
 ## Repository Structure
 
 Assets/
+
 ├── Materials/
+
 ├── Prefabs/
+
 ├── Scenes/
+
 ├── Scripts/
+
 └── UI/
+
 
 Packages/
 ProjectSettings/
